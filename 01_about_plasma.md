@@ -19,7 +19,7 @@ $$
 さきほどの多体問題では$f$は
 
 $$
-f = \sum \delta(x-x_i, p-p_i)
+f = \sum_i \delta(x-x_i, p-p_i)
 $$
 
 としたものに相当します。
